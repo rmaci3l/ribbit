@@ -1,0 +1,11 @@
+node_modules
+dist
+.vercel
+.playwright-cli
+tsconfig.tsbuildinfo
+*.webm
+*.local
+.DS_Store
+
+spec.md
+pumpportal-sample-events.json
